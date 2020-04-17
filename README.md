@@ -8,4 +8,7 @@ like 1 .you can ask user to play with computer or with second player
 and so on.
 The game is completely explained in its documentation.
 You can refer it for further help and get better understanding of code.
-documentation coming soon
+In documentation
+opeen HTML
+open index.html file
+to get the complete documentation
